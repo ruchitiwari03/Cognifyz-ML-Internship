@@ -3,7 +3,7 @@
 ![Cognifyz Logo](https://repository-images.githubusercontent.com/797892841/295c8e9b-ec8c-441a-88e0-20028310a68a)  <!-- Replace with actual logo URL if available -->
 
 ## About Me
-Hello! I am **Ruchi Tiwari**, a passionate third-year student specializing in Artificial Intelligence and Machine Learning at Chandigarh University. I am grateful for the opportunity to intern at **Cognifyz Technologies**, where I am honing my skills in data analysis and machine learning.
+Hello! I am **Ruchi Tiwari**, a passionate third-year student specialization in Artificial Intelligence and Machine Learning at Chandigarh University. I am grateful for the opportunity to intern at **Cognifyz Technologies**, where I am honing my skills in data analysis and machine learning.
 
 ## Internship Overview
 As a Machine Learning Intern at Cognifyz Technologies, I had the opportunity to work on various exciting projects, gaining hands-on experience in data preprocessing, analysis, and model development. The tasks I worked on include:
