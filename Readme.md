@@ -63,7 +63,7 @@ For any inquiries or collaboration opportunities, feel free to reach out:
 - **LinkedIn:** [Ruchi Tiwari](https://www.linkedin.com/in/ruchitiwari03)
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ruchitiwari03/Cognifyz-ML-Internship/blob/fb830f8ca9e873cf9381989a8aa755cddca8e161/LICENSE.txt) file for details.
 
 ## Acknowledgments
 - A huge thank you to the team at Cognifyz Technologies for this opportunity.
